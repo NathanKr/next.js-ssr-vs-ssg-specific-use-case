@@ -1,0 +1,18 @@
+[
+    { "name": "The Great Gatsby", "author": "F. Scott Fitzgerald", "numPages": 180 },
+    { "name": "To Kill a Mockingbird", "author": "Harper Lee", "numPages": 281 },
+    { "name": "1984", "author": "George Orwell", "numPages": 328 },
+    { "name": "Pride and Prejudice", "author": "Jane Austen", "numPages": 279 },
+    { "name": "The Catcher in the Rye", "author": "J.D. Salinger", "numPages": 224 },
+    { "name": "The Hobbit", "author": "J.R.R. Tolkien", "numPages": 310 },
+    { "name": "The Lord of the Rings", "author": "J.R.R. Tolkien", "numPages": 1178 },
+    { "name": "Harry Potter and the Sorcerer's Stone", "author": "J.K. Rowling", "numPages": 309 },
+    { "name": "The Hunger Games", "author": "Suzanne Collins", "numPages": 374 },
+    { "name": "The Da Vinci Code", "author": "Dan Brown", "numPages": 489 },
+    { "name": "The Alchemist", "author": "Paulo Coelho", "numPages": 197 },
+    { "name": "The Shining", "author": "Stephen King", "numPages": 447 },
+    { "name": "Moby-Dick", "author": "Herman Melville", "numPages": 625 },
+    { "name": "The Great Expectations", "author": "Charles Dickens", "numPages": 505 },
+    { "name": "Brave New World", "author": "Aldous Huxley", "numPages": 311 }
+  ]
+  
