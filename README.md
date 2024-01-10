@@ -23,5 +23,14 @@ Using <a href='https://pagespeed.web.dev'>Page Speed Insight</a> on <a href='htt
 We got 100 score for all, thus same !!
 
 <h2>Conclusion</h2>
-One should not be afraid to use ssr instead of ssg in this use case because the performance are the same for this use case
+One should not be afraid to use ssr instead of ssg in this use case because the performance are the same
 <p>remark : i am not using isSaleDay here because i got the info i want</p>
+
+<h2>Whats next</h2>
+In my use case isSaleDay is used in the top menu which is used from _app. To handle this i have two options :
+<ul>
+<li>remove top from _app and use in each page (ssr)</li>
+<li>make top a server component</li>
+</ul>
+
+The elegant solution is use server component but this is availeable only on the app router
