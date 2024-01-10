@@ -1,0 +1,1 @@
+# next.js-ssr-vs-ssg-specific-use-case
