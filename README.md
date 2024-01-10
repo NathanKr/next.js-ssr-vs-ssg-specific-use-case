@@ -23,5 +23,5 @@ Using <a href='https://pagespeed.web.dev'>Page Speed Insight</a> on <a href='htt
 We got 100 score for all, thus same !!
 
 <h2>Conclusion</h2>
-One should not be afraid to use ssr instead ssg in this use case because the performance are the same.
+One should not be afraid to use ssr instead of ssg in this use case because the performance are the same for this use case
 <p>remark : i am not using isSaleDay here because i got the info i want</p>
